@@ -1,6 +1,12 @@
 ---
 name: minions-profile
-description: Your source of truth — verified bio claims, portfolio items, and rate cards
+id: OC-0143
+version: 1.0.0
+description: "Your source of truth — verified bio claims, portfolio items, and rate cards"
+category: personal
+subcategory: identity
+tags: ["minion", "personal", "identity"]
+comments:
 ---
 
 # minions-profile — Agent Skills
