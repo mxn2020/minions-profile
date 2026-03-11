@@ -1,3 +1,5 @@
+![CI](https://github.com/mxn2020/minions-profile-workspace/actions/workflows/ci.yml/badge.svg) ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
+
 # minions-profile
 
 **Your source of truth — verified bio claims, portfolio items, and rate cards**

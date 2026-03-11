@@ -1,0 +1,15 @@
+name: minions-profile-workspace
+project_scope: main
+project_type: monorepo
+description: "Your source of truth — verified bio claims, portfolio items, and rate cards"
+tier: idea
+lane: minions
+priority: medium
+oss: true
+stack: [typescript]
+repo: "https://github.com/mxn2020/minions-profile"
+deploy_url: null
+last_active: 2026-02-23
+tags: [minion, toolbox, ai-agent, automation, minions, profile]
+notes: null
+id: abc27ae8-f02b-4c96-b265-eb85abb4da52

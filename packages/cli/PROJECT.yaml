@@ -1,0 +1,8 @@
+name: "@minions-profile/cli"
+project_scope: child
+child_type: cli
+parent_project: minions-profile-workspace
+description: "CLI for minions-profile — Your source of truth — verified bio claims, portfolio items, and rate cards"
+priority: high
+deploy_url: null
+tags: null
