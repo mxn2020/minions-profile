@@ -1,0 +1,16 @@
+name: minions-profile-workspace
+project_scope: main
+project_type: monorepo
+description: Your source of truth — verified bio claims, portfolio items, and rate cards
+tier: prototype
+lane: minions-platform
+priority: medium
+oss: true
+stack: ["typescript"]
+repo: "https://github.com/mxn2020/minions-profile"
+deploy_url: null
+last_active: 2026-03-11
+tags: ["minions-profile-workspace", "minions", "toolbox"]
+notes: null
+id: null
+category: minion-toolbox
