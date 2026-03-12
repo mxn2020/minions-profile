@@ -1,8 +1,8 @@
 {
   "name": "minions-profile-workspace",
   "private": true,
-  "version": "0.1.0",
-  "description": "Your source of truth \u2014 verified bio claims, portfolio items, and rate cards",
+  "version": "0.2.0",
+  "description": "Your source of truth — verified bio claims, portfolio items, and rate cards",
   "type": "module",
   "license": "MIT",
   "author": "Mehdi Nabhani <mehdi@the-mehdi.com> (https://the-mehdi.com)",
